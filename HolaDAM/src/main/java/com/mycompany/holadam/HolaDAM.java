@@ -16,6 +16,6 @@ public class HolaDAM {
         
         System.out.println("Estoy editando");
         
-        System.out.println("Modificandolo de nuevo (punto 3)");        
+        System.out.println("Haciendo el punto 3");    
     }
 }
